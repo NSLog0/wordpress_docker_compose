@@ -7,7 +7,7 @@
 - wordpress
 - corbinu/docker-phpmyadmin
 
-In this project I have linked data to external docker at data/ and wordpress fil at www/
+In this project I have linked mariadb data to external docker at data/ and wordpress fil at www/
 
 #How to use 
 1. Run 
